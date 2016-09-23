@@ -1,0 +1,26 @@
+
+{
+  "name": "jquery.singular",
+  "main": "singular.js",
+  "version": "0.0.0",
+  "homepage": "http://www.jqueryscript.net/layout/Create-A-Single-Page-Scrolling-Website-with-jQuery-CSS3-singular-js.html",
+  "authors": [
+  ],
+  "description": "Singular Jquery - Single Page Scroll",
+  "keywords": [
+    "sliding",
+    "animation",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://jgallery.jakubkowalczyk.pl/"
+    }
+  ],
+  "ignore": [
+    "**/.*",
+    "demo"
+  ]
+}
